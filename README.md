@@ -1,5 +1,5 @@
 # Alphatrend API Server
-Produces alphatrend signals on every stock fed externally (here BIST100.py)  
+Produces alphatrend buy or sell signals on every stock fed externally (here BIST100.py) based on daily price and volume fetched from yahoo finance  
 
 At your terminal simply run  
 
