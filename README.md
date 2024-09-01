@@ -9,3 +9,7 @@ Then you can see results here
 
 `localhost:8000/stocks`
 
+Alphatrend
+https://twitter.com/kivancozbilgic
+
+
